@@ -10,5 +10,6 @@
 <h2 dir="auto"></h2>
 <h4 dir="auto">Minhas Tecnologias</h4>
 <div>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img align="center" alt="Livia-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
 </div>
