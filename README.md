@@ -13,6 +13,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz&layout=compact" style="max-width: 100%;">
+<h2 dir="auto"></h2>
 <h4 dir="auto">Web Tecnologias</h4>
 <div>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
@@ -43,5 +45,3 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraiz" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz&layout=compact" style="max-width: 100%;">
