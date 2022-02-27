@@ -3,7 +3,7 @@
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="mortar_board" >🎓</g-emoji> Formado em <strong>Ciências Da Computação</strong></li>
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
-    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>React</strong>,<strong> Flutter </strong> e <strong> Angular </strong></li>
+    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>React<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a></strong>,<strong> Flutter </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a> e <strong> Angular </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"></a></li>
     </ul>
 </div>
 <h2 dir="auto"></h2>
