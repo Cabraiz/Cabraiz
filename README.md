@@ -34,6 +34,6 @@
 <h4 dir="auto">Testes & Raspagens</h4>
 <div>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SeleniumHQ/www.seleniumhq.org/blob/master/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg"><img align="center" height="30" width="40" src="https://github.com/SeleniumHQ/www.seleniumhq.org/blob/master/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/983927?v=3&s=400"><img align="center" height="30" width="40" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
