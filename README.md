@@ -29,8 +29,6 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
-
-<h2 dir="auto"></h2>
 <h4 dir="auto">Testes & Raspagens</h4>
 <div>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" style="max-width: 100%;"></a>
