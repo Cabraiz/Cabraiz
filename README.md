@@ -1,9 +1,17 @@
-<img align="center" height="100%" width="50%" src="https://github.com/Cabraiz/Cabraiz/blob/main/ezgif.com-gif-maker.gif" style="max-width: 100%;">
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="mortar_board" >🎓</g-emoji> Formado em <strong>Ciências Da Computação</strong></li>
-<li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
-<li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>Angular</strong> e <strong> Flutter </strong></li>
-</ul>
+<div class="row">
+  <div class="column">
+    <img align="center" height="100%" width="50%" src="https://github.com/Cabraiz/Cabraiz/blob/main/ezgif.com-gif-maker.gif" style="max-width: 100%;">
+  </div>
+
+
+  <div class="column">
+    <ul dir="auto">
+    <li><g-emoji class="g-emoji" alias="mortar_board" >🎓</g-emoji> Formado em <strong>Ciências Da Computação</strong></li>
+    <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
+    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>Angular</strong> e <strong> Flutter </strong></li>
+    </ul>
+  </div>
+</div>
 <h2 dir="auto"></h2>
 <a href="https://instagram.com/cabraiz/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 <a href="mailto:mateusccabr@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
