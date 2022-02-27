@@ -1,3 +1,4 @@
+<img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/Cabraiz/Cabraiz/blob/main/ezgif.com-gif-maker.gif" style="max-width: 100%;">
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="mortar_board" >🎓</g-emoji> Formado em <strong>Ciências Da Computação</strong></li>
 <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
