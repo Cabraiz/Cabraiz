@@ -44,4 +44,4 @@
 </div>
 <h2 dir="auto"></h2>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraiz" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabrai&layout=compactz" style="max-width: 100%;">
