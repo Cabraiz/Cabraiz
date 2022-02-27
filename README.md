@@ -43,14 +43,5 @@
 </div>
 <h2 dir="auto"></h2>
 <h4 dir="auto">Database</h4>
-<div>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;"></a>
-</div>
+
 <h2 dir="auto"></h2>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
