@@ -3,7 +3,7 @@
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="mortar_board" >🎓</g-emoji> Formado em <strong>Ciências Da Computação</strong></li>
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
-    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>Angular</strong> e <strong> Flutter </strong></li>
+    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>React</strong>,<strong> Flutter </strong> e <strong> Angular </strong></li>
     </ul>
 </div>
 <h2 dir="auto"></h2>
