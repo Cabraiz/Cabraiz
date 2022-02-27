@@ -42,6 +42,3 @@
   <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/983927?v=3&s=400"><img align="center" height="30" width="40" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
-<h4 dir="auto">Database</h4>
-
-<h2 dir="auto"></h2>
