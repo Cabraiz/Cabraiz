@@ -44,3 +44,4 @@
 </div>
 <h2 dir="auto"></h2>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraiz" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LiviaMartinss&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=false" style="max-width: 100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz)](https://github.com/cabraiz/github-readme-stats)
