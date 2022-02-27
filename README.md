@@ -29,3 +29,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
+
+<h2 dir="auto"></h2>
+<h4 dir="auto">Testes & Raspagens</h4>
+<div>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://code.iconify.design/2/2.1.2/iconify.min.js"><img align="center" height="30" width="40" src="https://code.iconify.design/2/2.1.2/iconify.min.js" style="max-width: 100%;"></a>
+</div>
+<h2 dir="auto"></h2>
