@@ -27,8 +27,8 @@
 <div>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
 <h4 dir="auto">Mobile Tecnologias</h4>
