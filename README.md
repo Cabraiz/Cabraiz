@@ -40,5 +40,5 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/983927?v=3&s=400"><img align="center" height="30" width="30" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" style="max-width: 100%;"></a>
 </div>
-<h2 dir="auto">Tecnologias Mais Usadas</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz&layout=compact&theme=dracula" style="max-width: 100%;">
+<h2 dir="auto"></h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz&layout=compact&theme=dracla" style="max-width: 100%;">
