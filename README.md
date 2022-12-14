@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.imgur.com/Y4Kwi0H.png" height="200" style="max-width: 100%;">
+    <img src="https://i.imgur.com/qWcVCNV.png" height="200" style="max-width: 100%;">
     <h2 dir="auto"></h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
