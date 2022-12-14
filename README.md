@@ -1,6 +1,6 @@
 <div>
-    <img src="https://i.imgur.com/KHDPxN3.png" height="200" style="max-width: 100%;">
-    <h2 dir="auto"></h2>
+    <img src="https://i.imgur.com/2rSEyZa.png" height="200" style="max-width: 100%;">
+    <h2 dir="auto">Seja Bem-Vindo Camarada 🌞</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
     <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>React<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a></strong>,<strong> Flutter </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a>,<strong> Angular </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></a> e <strong> Node.js </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"></a></li>
