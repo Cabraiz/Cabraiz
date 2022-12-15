@@ -41,4 +41,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/983927?v=3&s=400"><img align="center" height="30" width="30" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraiz&layout=compact&theme=dracula" style="max-width: 100%;">
+<img height="180em" src="https://svgur.com/i/op3.svg" style="max-width: 100%;">
+</p>
