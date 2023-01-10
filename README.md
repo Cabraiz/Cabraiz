@@ -12,62 +12,62 @@
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
     <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com <strong>React<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a></strong>,<strong> Flutter </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a>,<strong> Angular </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></a> e <strong> Node.js </strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"><img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"></a></li>
 </div>
-<h2 dir="auto"></h2>
-<h3 dir="auto">Linguagens De Programação</h3>
+    <h2 dir="auto"></h2>
+    <h3 dir="auto">Linguagens De Programação</h3>
 <div>
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/AxIFb25.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/MpCpLUJ.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/YXHe4oP.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/WbiDNpt.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/maX3HSe.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/314xhAs.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/T5PRURA.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/TQE2I42.png" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/AxIFb25.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/MpCpLUJ.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/YXHe4oP.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/WbiDNpt.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/maX3HSe.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/314xhAs.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/T5PRURA.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/TQE2I42.png" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
 <h3 dir="auto">Web Tecnologias <b>&&</b> Mobile Tecnologias</h3>
 <div>
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/vMI9Z0t.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/SZyAUhK.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/VGrBXc9.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/K1b9vD4.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/8GAPYH9.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/UUwANPY.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <b>&&</b>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/PH62YRV.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/VefkII4.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-</div>
-<h2 dir="auto"></h2>
-<h3 dir="auto">Testes Unitários/Manuais, Raspagens e Outras Tecnologias</h3>
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/vMI9Z0t.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/SZyAUhK.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/VGrBXc9.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/K1b9vD4.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/8GAPYH9.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/UUwANPY.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <b>&&</b>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/PH62YRV.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/VefkII4.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    </div>
+    <h2 dir="auto"></h2>
+    <h3 dir="auto">Testes Unitários/Manuais, Raspagens e Outras Tecnologias</h3>
 <div>
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6QKQD2t.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6AxhnNp.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <b>&&</b>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/cUwa5mT.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/jFkoI5j.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/tWuY7L5.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/rHGMRGR.png" style="max-width: 100%;"></a>
-  &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6QKQD2t.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6AxhnNp.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;    
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/jFkoI5j.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <b>&&</b>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/cUwa5mT.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/tWuY7L5.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/rHGMRGR.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
 </div>
