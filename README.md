@@ -42,6 +42,12 @@
   &nbsp;&nbsp;
   <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/K1b9vD4.png" style="max-width: 100%;"></a>
   &nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/8GAPYH9.png" style="max-width: 100%;"></a>
+  &nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/UUwANPY.png" style="max-width: 100%;"></a>
+  &nbsp;&nbsp;
+  <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/rHGMRGR.png" style="max-width: 100%;"></a>
+  &nbsp;&nbsp;
   <b>&&</b>
   &nbsp;&nbsp;
   <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/PH62YRV.png" style="max-width: 100%;"></a>
