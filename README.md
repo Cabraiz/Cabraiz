@@ -6,7 +6,7 @@
     &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
-<a href="mailto:mateusccabr@gmail.com"><img height="30" src="https://camo.githubusercontent.com/c9c767477b51662df471cffa36b2a4ac2eea4b54e0f4351dedd232be28efa67e/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e397354345557735266466979367650796476335f2d514861484f3f7069643d496d674465742672733d31" data-canonical-src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&amp;rs=1" style="max-width: 100%;"></a>
+<a action="mailto:mateusccabr@gmail.com"><img height="30" src="https://camo.githubusercontent.com/c9c767477b51662df471cffa36b2a4ac2eea4b54e0f4351dedd232be28efa67e/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e397354345557735266466979367650796476335f2d514861484f3f7069643d496d674465742672733d31" data-canonical-src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&amp;rs=1" style="max-width: 100%;"></a>
     <h2 dir="auto">Seja Bem-Vindo Camarada 🌞 🤝 🌝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
