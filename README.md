@@ -12,13 +12,13 @@
     <h2 dir="auto">Seja Bem-Vindo Camarada 🌞 🤝 🌝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong></li>
-    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com: 
+    <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com 
     <strong>React.js</strong>
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;">,
     <strong>Next.js</strong>
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">,
     <strong>Flutter</strong>
-    <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">,  
+    <img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">,  
     <strong>Angular</strong>
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> e 
     <strong>Node.js</strong>
