@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.imgur.com/3lP9lfP.png" height="170" style="max-width: 100%;">
+    <img src="https://i.imgur.com/3lP9lfP.png" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="max-width: 100%;"></a>
