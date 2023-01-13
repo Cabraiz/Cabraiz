@@ -71,7 +71,7 @@
 <div>
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6QKQD2t.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
-    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/6AxhnNp.png" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/LvypQRJ.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;    
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/jFkoI5j.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
@@ -79,10 +79,10 @@
     &nbsp;&nbsp;
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/cUwa5mT.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
-    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/tWuY7L5.png" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/bjuREjl.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/rHGMRGR.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
 </div>
-    <p align="center" dir="auto">
+    <p align="end" dir="auto">
     <img height="400" style="max-width: 100%;" src="https://i.imgur.com/bMa3Anr.png" style="max-width: 100%;">
