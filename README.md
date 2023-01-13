@@ -19,10 +19,7 @@
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;">,
     <strong>Next.js</strong>
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">,
-    <strong>Flutter</strong>
-    <img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">,  
-    <strong>Angular</strong>
-    <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> e 
+    <strong>Flutter</strong><img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
     <strong>Node.js</strong>
     <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"></a></li>
    <li><g-emoji class="g-emoji" alias="sparkles" >📫 Onde me encontrar: <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><strong>mateusccabr@gmail.com</strong></a> </a></li>
