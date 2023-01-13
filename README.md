@@ -47,7 +47,7 @@
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/TQE2I42.png" style="max-width: 100%;"></a>
 </div>
 <h2 dir="auto"></h2>
-<h3 dir="auto">Web Tecnologias <b>&&</b> Mobile Tecnologias</h3>
+<h3 dir="auto">Web<b> && </b>Mobile Tecnologias</h3>
 <div>
     <a target="_blank" rel="noopener noreferrer"><img align="center" height="80" width="80" src="https://i.imgur.com/vMI9Z0t.png" style="max-width: 100%;"></a>
     &nbsp;&nbsp;
