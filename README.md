@@ -85,4 +85,4 @@
     &nbsp;&nbsp;
 </div>
     <p align="end" dir="auto">
-    <img height="400" style="max-width: 100%;" src="https://i.imgur.com/fxRwFwE.png" style="max-width: 100%;">
+    <img height="400" style="max-width: 100%;" src="https://i.imgur.com/26M2a0r.png" style="max-width: 100%;">
