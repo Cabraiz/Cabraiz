@@ -1,14 +1,14 @@
 <div>
     <img src="https://i.imgur.com/3lP9lfP.png" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
-    <p align="center" dir="auto">
+    <p align="center" dir="auto>
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 4%"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://camo.githubusercontent.com/c9c767477b51662df471cffa36b2a4ac2eea4b54e0f4351dedd232be28efa67e/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e397354345557735266466979367650796476335f2d514861484f3f7069643d496d674465742672733d31" style="width: 4%"></a>
+    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://i.imgur.com/llyimkr.png" style="width: 4%"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.buymeacoffee.com/Cabraiz"><img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" style="height: 1%; width: 3%"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/NgE3qOm.png" style="width: 4%"></a>
+    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 4%"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 4%"></a>
     <h2 dir="auto">Seja Bem-Vindo Camarada! 🤝</h2>
