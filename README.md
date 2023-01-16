@@ -2,15 +2,15 @@
     <img src="https://i.imgur.com/3lP9lfP.png" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
-    <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 4%"></a>
+    <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://i.imgur.com/llyimkr.png" style="width: 4%"></a>
+    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://i.imgur.com/llyimkr.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.buymeacoffee.com/Cabraiz"><img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" style="height: 1%; width: 3%"></a>
+    <a href="https://www.buymeacoffee.com/Cabraiz"><img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" style="height: 40px; width: 30px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 4%"></a>
+    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 4%"></a>
+    <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px"></a>
     <h2 dir="auto">Seja Bem-Vindo Camarada! 🤝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong>;</li>
@@ -18,18 +18,18 @@
     <strong>React.js</strong>
     <img align="center" height="24" width="24" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" style="max-width: 100%;">,
     <strong>Jest</strong>
-    <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/0ea6612fde21ea2eded90c5e2428a4d3f872331b35aafe226aab4081fb305af8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" style="max-width: 100%;">,
+    <height="30" width="30" src="https://camo.githubusercontent.com/0ea6612fde21ea2eded90c5e2428a4d3f872331b35aafe226aab4081fb305af8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" style="max-width: 100%;">,
     <strong>Next.js</strong>
-    <img align="center" height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">,
+    <height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">,
     <strong>Flutter</strong><img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
     <strong>Node.js</strong>
-    <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"></a> ;</li>
+    <height="30" width="30" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"></a> ;</li>
    <li><g-emoji class="g-emoji" alias="sparkles" >📫 Onde me encontrar: <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><strong>mateusccabr@gmail.com</strong></a> </a></li>
 </div>
     <h2 dir="auto"></h2>
     <h3 dir="auto">Linguagens De Programação</h3>
 <div>
-    <img src="https://i.imgur.com/AxIFb25.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/AxIFb25.png" style="min-width: 40px; width: 7vw;"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/MpCpLUJ.png" style="width: 7vw;"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
