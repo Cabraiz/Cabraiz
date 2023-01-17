@@ -6,8 +6,6 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://i.imgur.com/llyimkr.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.buymeacoffee.com/Cabraiz"><img src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" style="height: 40px; width: 30px"></a>
-    <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px"></a>
@@ -29,60 +27,60 @@
     <h2 dir="auto"></h2>
     <h3 dir="auto">Linguagens De Programação</h3>
 <div>
-    <img src="https://i.imgur.com/AxIFb25.png" style="min-width: 40px; width: 7vw;"></a>
+    <img src="https://i.imgur.com/AxIFb25.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/MpCpLUJ.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/MpCpLUJ.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/YXHe4oP.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/YXHe4oP.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/WbiDNpt.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/WbiDNpt.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/maX3HSe.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/maX3HSe.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/314xhAs.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/314xhAs.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/T5PRURA.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/T5PRURA.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/TQE2I42.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/TQE2I42.png" style="width: 90px"></a>
 </div>
 <h2 dir="auto"></h2>
 <h3 dir="auto">Web<b> & </b>Mobile Tecnologias</h3>
 <div>
-    <img src="https://i.imgur.com/vMI9Z0t.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/vMI9Z0t.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/SZyAUhK.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/SZyAUhK.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/VGrBXc9.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/VGrBXc9.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/K1b9vD4.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/K1b9vD4.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/8GAPYH9.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/8GAPYH9.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/UUwANPY.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/UUwANPY.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/tg95a0t.png" style="height: 7vw; width: 4vw""></a>
+    <img src="https://i.imgur.com/tg95a0t.png" style="height: 90px; width: 45px""></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/PH62YRV.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/PH62YRV.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/VefkII4.png" style="width: 7vw;"></a>
+    <img src="https://i.imgur.com/VefkII4.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     </div>
     <h2 dir="auto"></h2>
     <h3 dir="auto">Testes Unitários/Manuais, Raspagens e Outras Tecnologias</h3>
 <div>
-    <img src="https://i.imgur.com/6QKQD2t.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/6QKQD2t.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/LvypQRJ.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/LvypQRJ.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>    
-    <img src="https://i.imgur.com/jFkoI5j.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/jFkoI5j.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/tg95a0t.png" style="height: 7vw; width: 4vw""></a>
+    <img src="https://i.imgur.com/tg95a0t.png" style="height: 90px; width: 45px""></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/cUwa5mT.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/cUwa5mT.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png"style="width: 1%"></a>
-    <img src="https://i.imgur.com/bjuREjl.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/bjuREjl.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/rHGMRGR.png" style="width: 7vw"></a>
+    <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
 </div>
     <p align="end" dir="auto">
     <img src="https://i.imgur.com/dphwEGC.png" style="width: 40vw;">
