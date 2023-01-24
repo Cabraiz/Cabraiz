@@ -13,15 +13,15 @@
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong>;</li>
     <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com 
-    <strong>React.js</strong>
+    <strong>&nbsp;React.js</strong>
     <img align="center" height="24" width="24" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" style="max-width: 100%;">,
     <strong>Jest</strong>
-    <height="30" width="30" src="https://camo.githubusercontent.com/0ea6612fde21ea2eded90c5e2428a4d3f872331b35aafe226aab4081fb305af8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" style="max-width: 100%;">,
-    <strong>Next.js</strong>
-    <height="22.5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;">,
-    <strong>Flutter</strong><img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
-    <strong>Node.js</strong>
-    <height="30" width="30" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"></a> ;</li>
+    <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/47371964/214415268-3c63174b-d209-480d-a6e2-f39b71923069.svg" style="max-width: 100%;">,
+    <strong>&nbsp;Next.js</strong>
+    <img align="center" height="24" width="24" src="https://user-images.githubusercontent.com/47371964/214419003-5a9bfa22-543a-4c4a-b2ed-24cdf76879b3.svg">
+    <strong>&nbsp;Flutter</strong><img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
+    <strong>&nbsp;Node.js</strong>
+    <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"></a> ;</li>
    <li><g-emoji class="g-emoji" alias="sparkles" >📫 Onde me encontrar: <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><strong>mateusccabr@gmail.com</strong></a> </a></li>
 </div>
     <h2 dir="auto"></h2>
@@ -81,6 +81,8 @@
     <img src="https://i.imgur.com/bjuREjl.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
+    <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
+    <img src="https://i.imgur.com/iOCXb5B.png" style="width: 90px"></a>
 </div>
     <p align="end" dir="auto">
     <img src="https://i.imgur.com/dphwEGC.png" style="width: 40vw;">
