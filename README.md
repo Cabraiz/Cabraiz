@@ -59,15 +59,13 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/UUwANPY.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/tg95a0t.png" style="height: 90px; width: 45px""></a>
-    <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/PH62YRV.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/VefkII4.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     </div>
     <h2 dir="auto"></h2>
-    <h3 dir="auto">Testes Unitários/Manuais, Raspagens e Outras Tecnologias</h3>
+    <h3 dir="auto">Testes Unitários/Manuais, Raspagens</h3>
 <div>
     <img src="https://i.imgur.com/6QKQD2t.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
@@ -75,7 +73,10 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>    
     <img src="https://i.imgur.com/jFkoI5j.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/tg95a0t.png" style="height: 90px; width: 45px""></a>
+</div>
+    <h2 dir="auto"></h2>
+    <h3 dir="auto">Outras Tecnologias</h3>
+    <div>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/cUwa5mT.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png"style="width: 1%"></a>
@@ -84,6 +85,6 @@
     <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/iOCXb5B.png" style="width: 90px"></a>
-</div>
+    </div>
     <p align="end" dir="auto">
     <img src="https://i.imgur.com/dphwEGC.png" style="width: 40vw;">
