@@ -65,7 +65,7 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     </div>
     <h2 dir="auto"></h2>
-    <h3 dir="auto">Testes Unitários/Manuais, Raspagens</h3>
+    <h3 dir="auto">Testes Unitários/Manuais e Raspagens</h3>
 <div>
     <img src="https://i.imgur.com/6QKQD2t.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
