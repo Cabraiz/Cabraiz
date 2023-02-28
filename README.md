@@ -9,7 +9,7 @@
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px"></a>
-    <h2 dir="auto">Seja Bem-Vindo Camarada! 🤝</h2>
+    <h2 dir="auto">Seja Bem-Vindo, Camarada! 🤝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong>;</li>
     <li><g-emoji class="g-emoji" alias="sparkles" >✨</g-emoji> Atualmente trabalho com 
