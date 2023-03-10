@@ -79,7 +79,6 @@
     <h2 dir="auto"></h2>
     <h3 dir="auto">Outras Tecnologias</h3>
     <div>
-    <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/cUwa5mT.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png"style="width: 1%"></a>
     <img src="https://i.imgur.com/bjuREjl.png" style="width: 90px"></a>
