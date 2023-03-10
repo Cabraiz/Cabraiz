@@ -19,6 +19,8 @@
     <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/47371964/214415268-3c63174b-d209-480d-a6e2-f39b71923069.svg" style="max-width: 100%;">,
     <strong>&nbsp;Next.js</strong>
     <img align="center" height="24" width="24" src="https://user-images.githubusercontent.com/47371964/214419003-5a9bfa22-543a-4c4a-b2ed-24cdf76879b3.svg">,
+    <strong>&nbsp;Firebase</strong>
+    <img align="center" height="25" width="17" src="https://user-images.githubusercontent.com/47371964/224434037-dd6e309a-7a6e-43e4-afd9-cbbfb608a4bb.png">,
     <strong>&nbsp;Flutter</strong>
     <img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
     <strong>&nbsp;Node.js</strong>
@@ -61,7 +63,7 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <img src="https://i.imgur.com/PH62YRV.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/VefkII4.png" style="width: 90px"></a>
+    <img src="https://i.imgur.com/IvRTheQ.png" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     </div>
     <h2 dir="auto"></h2>
