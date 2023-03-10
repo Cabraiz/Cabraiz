@@ -21,9 +21,9 @@
     <img align="center" height="24" width="24" src="https://user-images.githubusercontent.com/47371964/214419003-5a9bfa22-543a-4c4a-b2ed-24cdf76879b3.svg">,
     <strong>&nbsp;Firebase</strong>
     <img align="center" height="25" width="17" src="https://user-images.githubusercontent.com/47371964/224434037-dd6e309a-7a6e-43e4-afd9-cbbfb608a4bb.png">,
-    <strong>&nbsp;Flutter</strong>
-    <img align="center" height="20.5" width="28" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">e 
-    <strong>&nbsp;Node.js</strong>
+    <strong>Flutter</strong>
+    <img align="center" height="23" width="18" src="https://user-images.githubusercontent.com/47371964/224443460-f9aea102-02e4-42c1-abd3-ddb58968874c.png" style="max-width: 100%;">&nbsp;&nbsp;e&nbsp;
+    <strong>Node.js</strong>
     <img align="center" height="30" width="30" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"></a> ;</li>
    <li><g-emoji class="g-emoji" alias="sparkles" >📫 Onde me encontrar: <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><strong>mateusccabr@gmail.com</strong></a> </a></li>
 </div>
