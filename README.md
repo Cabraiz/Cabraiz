@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/84718474-9686-4f33-81da-c0ca2a1e457a" style="max-width: 100%;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/5b54066a-28b0-41e8-ab88-fca9dc8337ee" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px"></a>
@@ -47,45 +47,45 @@
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/fbd2051c-ec85-4378-b537-7e7e9dab4eb2" style="width: 90px"></a>
 </div>
 <h2 dir="auto"></h2>
-<h3 dir="auto">Web<b> & </b>Mobile Tecnologias</h3>
+<h3 dir="auto">Web<b>-</b>Mobile Tecnologias && Database </h3> 
 <div>
-    <img src="https://i.imgur.com/vMI9Z0t.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/15924689-9cf8-4802-ae96-5270e58433cc" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/SZyAUhK.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/9d9f8e7f-c21d-4539-8218-728874cfa7a4" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/VGrBXc9.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/858dd041-c3e0-4ceb-bf20-6200df8ea1b4" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/K1b9vD4.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/14c2ac35-eb27-4bb2-820c-e5000b5d5943" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/8GAPYH9.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/d80723ef-6556-4349-86e6-a6e9b906ea88" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/UUwANPY.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/cc444c30-ad6b-4185-9664-5b7c0be5ee02" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/PH62YRV.png" style="width: 90px"></a>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/IvRTheQ.png" style="width: 90px"></a>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    </div>
+</div>
     <h2 dir="auto"></h2>
     <h3 dir="auto">Testes Unitários/Manuais e Raspagens</h3>
 <div>
-    <img src="https://i.imgur.com/6QKQD2t.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/38dec3f8-3ba8-4573-9947-34bd92524205" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/LvypQRJ.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/3b9a987d-a4c4-48ac-9dab-a88d09029300" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>    
-    <img src="https://i.imgur.com/jFkoI5j.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/661663ff-c968-47f4-a1ee-e2c73b27b29c" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
 </div>
     <h2 dir="auto"></h2>
     <h3 dir="auto">Outras Tecnologias</h3>
     <div>
-    <img src="https://i.imgur.com/cUwa5mT.png" style="width: 90px"></a>
-    <img src="https://i.imgur.com/cKCY0l9.png"style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/32da5874-752d-41f5-9516-951a2662bcca" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/ea0552f5-f982-45d3-b89e-f307a64419f4" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
     <img src="https://i.imgur.com/bjuREjl.png" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
     <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <img src="https://i.imgur.com/iOCXb5B.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/59b6b967-1377-4dc1-8c4c-77df51beddb5" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/c17b3d80-4c30-4d30-bd77-33590568cbae" style="width: 90px"></a>
     </div>
     <p align="end" dir="auto">
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 40vw;">
