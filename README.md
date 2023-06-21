@@ -6,7 +6,7 @@
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/0b8e16b8-0043-4573-82bd-ef10dbf0eca0" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 40px"></a>
+    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/700b1225-973a-42b1-aaf4-dc87772df3cb" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px"></a>
     <h2 dir="auto">Seja Bem-Vindo, Camarada! 🤝</h2>
@@ -30,21 +30,21 @@
     <h2 dir="auto"></h2>
     <h3 dir="auto">Linguagens De Programação</h3>
 <div>
-    <img src="https://i.imgur.com/AxIFb25.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/67b35155-3504-4591-9742-9896d24be6bf" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/MpCpLUJ.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/9bfab8e8-c974-49d2-b258-557a192dd000" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/YXHe4oP.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/56cc366f-8074-4206-a143-a357b91c1b81" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/WbiDNpt.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/ee5a73e1-edaa-4c73-9da4-34a2fcdef6c6" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/maX3HSe.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/92c92174-c083-449f-9469-f29d8f70a6fa" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/314xhAs.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/66e82085-9ed4-41a8-b4d3-8f7cc039b5cc" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/T5PRURA.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/33ab41b3-17e1-4ff6-bd90-348feacf8933" style="width: 90px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <img src="https://i.imgur.com/TQE2I42.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/fbd2051c-ec85-4378-b537-7e7e9dab4eb2" style="width: 90px"></a>
 </div>
 <h2 dir="auto"></h2>
 <h3 dir="auto">Web<b> & </b>Mobile Tecnologias</h3>
@@ -88,4 +88,4 @@
     <img src="https://i.imgur.com/iOCXb5B.png" style="width: 90px"></a>
     </div>
     <p align="end" dir="auto">
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 40vw;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 30vw;">
