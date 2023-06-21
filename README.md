@@ -1,10 +1,10 @@
 <div>
-    <img src="https://i.imgur.com/3lP9lfP.png" style="max-width: 100%;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/cfde0ec7-643b-4fd7-84e8-092fc7edd1d5" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
-    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://i.imgur.com/llyimkr.png" style="width: 40px"></a>
+    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/0b8e16b8-0043-4573-82bd-ef10dbf0eca0" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://i.imgur.com/IBxb1Ej.png" style="width: 40px"></a>
     <img src="https://i.imgur.com/cKCY0l9.png" style="width: 1%"></a>
@@ -88,4 +88,4 @@
     <img src="https://i.imgur.com/iOCXb5B.png" style="width: 90px"></a>
     </div>
     <p align="end" dir="auto">
-    <img src="https://i.imgur.com/dphwEGC.png" style="width: 40vw;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 40vw;">
