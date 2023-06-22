@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/5b54066a-28b0-41e8-ab88-fca9dc8337ee" style="max-width: 100%;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/5efe7ffe-c3c7-483d-abdd-45258fc89237" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px"></a>
