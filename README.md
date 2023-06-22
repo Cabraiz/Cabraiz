@@ -92,4 +92,4 @@
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/c17b3d80-4c30-4d30-bd77-33590568cbae" style="width: 90px"></a>
     </div>
     <p align="end" dir="auto">
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 40vw;">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/7dd6403d-75ba-46be-abf4-b07a17a77038" style="width: 60vh;">
