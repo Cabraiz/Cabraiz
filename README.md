@@ -3,13 +3,13 @@
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px">
+        <img src="![IMG](https://github.com/Cabraiz/Cabraiz/assets/47371964/0981b087-1925-4e81-91ca-d3cadf86fe73)" style="width: 40px">
     </a>
     <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F">
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/0b8e16b8-0043-4573-82bd-ef10dbf0eca0" style="width: 40px">
+        <img src="![19](https://github.com/Cabraiz/Cabraiz/assets/47371964/4aafd12f-5520-4f42-9574-ae6dc25a1c7c)" style="width: 40px">
     </a>
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow">
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/700b1225-973a-42b1-aaf4-dc87772df3cb" style="width: 40px">
+        <img src="![20](https://github.com/Cabraiz/Cabraiz/assets/47371964/1705a657-272b-42c8-9f15-f7f90513a854)" style="width: 40px">
     </a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow">
         <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px">
