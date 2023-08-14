@@ -2,13 +2,18 @@
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/5efe7ffe-c3c7-483d-abdd-45258fc89237" style="max-width: 100%;">
     <h4 dir="auto"> </h4>
     <p align="center" dir="auto>
-    <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px"></a>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F"><img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/0b8e16b8-0043-4573-82bd-ef10dbf0eca0" style="width: 40px"></a>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <a href="https://www.instagram.com/cabraiz/" rel="nofollow"><img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/700b1225-973a-42b1-aaf4-dc87772df3cb" style="width: 40px"></a>
-    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <a href="https://www.tiktok.com/@cabraiz" rel="nofollow"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px"></a>
+    <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" style="width: 40px">
+    </a>
+    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/0b8e16b8-0043-4573-82bd-ef10dbf0eca0" style="width: 40px">
+    </a>
+    <a href="https://www.instagram.com/cabraiz/" rel="nofollow">
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/700b1225-973a-42b1-aaf4-dc87772df3cb" style="width: 40px">
+    </a>
+    <a href="https://www.tiktok.com/@cabraiz" rel="nofollow">
+        <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px">
+    </a>
     <h2 dir="auto">Seja Bem-Vindo, Camarada! 🤝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong>;</li>
