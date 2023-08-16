@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/cabraiz/" rel="nofollow">
         <img src="![IMG](https://github.com/Cabraiz/Cabraiz/assets/47371964/0981b087-1925-4e81-91ca-d3cadf86fe73)" style="width: 40px">
     </a>
-    <a href="mailto:mateusccabr@gmail.com?subject=Hey%20Mateus!&body=Let's%20Start%3F">
-        <img src="![19](https://github.com/Cabraiz/Cabraiz/assets/47371964/4aafd12f-5520-4f42-9574-ae6dc25a1c7c)" style="width: 40px">
+    <a href="mailto:mateusccabr@gmail.com?subject=Oportunidade%20de%20Colabora%C3%A7%C3%A3o&body=Prezado%20Cabral%2C%0D%0A%0D%0AEspero%20que%20esta%20mensagem%20o%20encontre%20bem.%20Meu%20nome%20%C3%A9%20%5BNome%20do%20Remetente%5D%2C%20e%20sou%20representante%20da%20%5BNome%20da%20Empresa%5D%2C%20uma%20empresa%20que%20atua%20na%20%C3%A1rea%20de%20%5B%C3%81rea%20de%20Atua%C3%A7%C3%A3o%20da%20Empresa%5D.%0D%0A%0D%0AGostaria%20de%20saber%20se%20voc%C3%AA%20estaria%20dispon%C3%ADvel%20para%20uma%20conversa%20informal%2C%20onde%20poder%C3%ADamos%20discutir%20como%20suas%20habilidades%20e%20conhecimentos%20poderiam%20se%20alinhar%20aos%20nossos%20objetivos%20e%20projetos%20em%20andamento.%0D%0A%0D%0AAgrade%C3%A7o%20antecipadamente%20pelo%20seu%20tempo%20e%20considera%C3%A7%C3%A3o.%0D%0A%0D%0AAtenciosamente%2C%0D%0A%5BNome%20do%20Remetente%5D">
+        <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/19.png?raw=true" style="width: 40px">
     </a>
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow">
         <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/20.png?raw=true" style="width: 40px">
