@@ -9,7 +9,7 @@
         <img src="![19](https://github.com/Cabraiz/Cabraiz/assets/47371964/4aafd12f-5520-4f42-9574-ae6dc25a1c7c)" style="width: 40px">
     </a>
     <a href="https://www.instagram.com/cabraiz/" rel="nofollow">
-        <img src="![20](https://github.com/Cabraiz/Cabraiz/assets/47371964/1705a657-272b-42c8-9f15-f7f90513a854)" style="width: 40px">
+        <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/20.png?raw=true" style="width: 40px">
     </a>
     <a href="https://www.tiktok.com/@cabraiz" rel="nofollow">
         <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px">
