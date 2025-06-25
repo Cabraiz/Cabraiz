@@ -23,9 +23,6 @@
         <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/20.png?raw=true" style="width: 40px">
     </a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
-    <a href="https://www.tiktok.com/@cabraiz" rel="nofollow">
-        <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-512.png" style="width: 40px">
-    </a>
     <h2 dir="auto">Seja Bem-Vindo, Camarada! 🤝</h2>
     <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="seedling" >📱</g-emoji> &nbsp;Tentando linkar <strong>Web</strong> e <strong>Mobile</strong>;</li>
