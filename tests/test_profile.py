@@ -57,3 +57,10 @@ class Stats(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Labels(unittest.TestCase):
+    def test_one_day_is_singular(self):
+        self.assertEqual(stats.plural_days(1), "1 day")
+        self.assertEqual(stats.plural_days(0), "0 days")
+        self.assertEqual(stats.plural_days(9), "9 days")

@@ -102,13 +102,17 @@ def summarise(user: dict, include_private: bool, today: dt.date) -> dict:
     }
 
 
+def plural_days(count: int) -> str:
+    return f"{count} day" if count == 1 else f"{count} days"
+
+
 def card(stats: dict, theme: str) -> str:
     t = THEMES[theme]
     metrics = [
         (f"{stats['total']:,}", "contributions, last 12 months"),
         (f"{stats['active_days']}", "active days"),
-        (f"{stats['longest']} days", "longest streak"),
-        (f"{stats['current']} days", "current streak"),
+        (plural_days(stats['longest']), "longest streak"),
+        (plural_days(stats['current']), "current streak"),
     ]
     width, height = 840, 232
     parts = [
