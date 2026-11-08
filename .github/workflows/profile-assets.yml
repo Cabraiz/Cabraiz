@@ -1,0 +1,72 @@
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 03:00 in Fortaleza
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      # Optional. Add a PROFILE_TOKEN secret (read-only access) to count private
+      # work in the totals. Private repository names are never published.
+      GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+      INCLUDE_PRIVATE: ${{ secrets.PROFILE_TOKEN != '' && '--include-private' || '' }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: 3D calendar
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Activity card and recent work
+        run: |
+          # shellcheck disable=SC2086
+          python scripts/stats.py --out dist $INCLUDE_PRIVATE \
+            --crop-3d profile-3d-contrib/profile-night-green.svg dist/calendar-dark.svg \
+            --crop-3d profile-3d-contrib/profile-green-animate.svg dist/calendar-light.svg
+          rm -rf profile-3d-contrib
+
+      - name: Publish images to the output branch
+        env:
+          PUSH_TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generated images"
+          git push --force "https://x-access-token:${PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
+
+      - name: Save the recent work table
+        run: |
+          rm -rf dist
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "profile: update recent work"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((attempt * 5))
+          done
+          exit 1

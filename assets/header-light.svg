@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Mateus Cabral, Senior AI Engineer and full-stack developer, based in Fortaleza, Brazil">
+<style>
+.phrase { opacity: 0; animation: phrase 12s linear infinite; }
+@keyframes phrase { 0% { opacity: 0; } 3%, 30% { opacity: 1; } 33.3%, 100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .pulse { display: none; }
+  .phrase { animation: none; }
+  .phrase:first-of-type { opacity: 1; }
+}
+</style>
+<defs>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#f3f6fa"/>
+</linearGradient>
+<radialGradient id="glow" cx="985" cy="160" r="360" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0969da" stop-opacity=".12"/>
+<stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+</radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="2" r="1.2" fill="#d0d7de"/>
+</pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset=".5" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".8" stop-color="#fff" stop-opacity="1"/>
+</linearGradient>
+<mask id="dots-mask"><rect width="1280" height="320" fill="url(#fade)"/></mask>
+<clipPath id="frame"><rect width="1280" height="320" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="320" fill="url(#surface)"/>
+<rect width="1280" height="320" fill="url(#dots)" mask="url(#dots-mask)"/>
+<rect width="1280" height="320" fill="url(#glow)"/>
+</g>
+<rect x=".75" y=".75" width="1278.5" height="318.5" rx="15.5" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<text x="72" y="82" font-size="20" font-weight="600" letter-spacing="2.4" fill="#0969da">FORTALEZA, BRAZIL · REMOTE</text>
+<text x="69" y="158" font-size="78" font-weight="700" letter-spacing="-1.6" fill="#1f2328">Mateus Cabral</text>
+<text x="72" y="206" font-size="31" font-weight="500" fill="#424a53">Senior AI Engineer · Full-Stack Developer</text>
+<text class="phrase" style="animation-delay:0s" x="72" y="252" font-size="26" fill="#59636e">LLMs, RAG and multi-agent systems in production</text>
+<text class="phrase" style="animation-delay:4s" x="72" y="252" font-size="26" fill="#59636e">React · TypeScript · Node.js · Java · AWS</text>
+<text class="phrase" style="animation-delay:8s" x="72" y="252" font-size="26" fill="#59636e">13 years shipping software, remote from Brazil</text>
+<path d="M805 160 C895 160 895 160 985 160" fill="none" stroke="#b6c0ca" stroke-width="1.5"/>
+<path d="M985 160 C1075 160 1075 76 1165 76" fill="none" stroke="#b6c0ca" stroke-width="1.5"/>
+<path d="M985 160 C1075 160 1075 160 1165 160" fill="none" stroke="#b6c0ca" stroke-width="1.5"/>
+<path d="M985 160 C1075 160 1075 244 1165 244" fill="none" stroke="#b6c0ca" stroke-width="1.5"/>
+<circle class="pulse" r="4.5" fill="#0969da" opacity="0"><animateMotion dur="4.5s" begin="0.0s" repeatCount="indefinite" path="M805 160 C895 160 895 160 985 160" keyPoints="0;1;1" keyTimes="0;.28;1" calcMode="linear"/><animate attributeName="opacity" dur="4.5s" begin="0.0s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;.04;.25;.28;1"/></circle>
+<circle class="pulse" r="4.5" fill="#0969da" opacity="0"><animateMotion dur="4.5s" begin="1.0s" repeatCount="indefinite" path="M985 160 C1075 160 1075 76 1165 76" keyPoints="0;1;1" keyTimes="0;.28;1" calcMode="linear"/><animate attributeName="opacity" dur="4.5s" begin="1.0s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;.04;.25;.28;1"/></circle>
+<circle class="pulse" r="4.5" fill="#0969da" opacity="0"><animateMotion dur="4.5s" begin="1.45s" repeatCount="indefinite" path="M985 160 C1075 160 1075 160 1165 160" keyPoints="0;1;1" keyTimes="0;.28;1" calcMode="linear"/><animate attributeName="opacity" dur="4.5s" begin="1.45s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;.04;.25;.28;1"/></circle>
+<circle class="pulse" r="4.5" fill="#0969da" opacity="0"><animateMotion dur="4.5s" begin="1.9s" repeatCount="indefinite" path="M985 160 C1075 160 1075 244 1165 244" keyPoints="0;1;1" keyTimes="0;.28;1" calcMode="linear"/><animate attributeName="opacity" dur="4.5s" begin="1.9s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;.04;.25;.28;1"/></circle>
+<rect x="753.0" y="137.0" width="104" height="46" rx="23.0" fill="#ffffff" stroke="#b6c0ca" stroke-width="1.5"/><text x="805" y="167.0" text-anchor="middle" font-size="20" font-weight="500" fill="#424a53">Request</text>
+<rect x="919.0" y="131.0" width="132" height="58" rx="29.0" fill="#0969da" stroke="#0969da" stroke-width="1.5"/><text x="985" y="167.7" text-anchor="middle" font-size="22" font-weight="600" fill="#ffffff">Agents</text>
+<rect x="1113.0" y="53.0" width="104" height="46" rx="23.0" fill="#ffffff" stroke="#b6c0ca" stroke-width="1.5"/><text x="1165" y="83.0" text-anchor="middle" font-size="20" font-weight="500" fill="#424a53">LLM</text>
+<rect x="1113.0" y="137.0" width="104" height="46" rx="23.0" fill="#ffffff" stroke="#b6c0ca" stroke-width="1.5"/><text x="1165" y="167.0" text-anchor="middle" font-size="20" font-weight="500" fill="#424a53">RAG</text>
+<rect x="1113.0" y="221.0" width="104" height="46" rx="23.0" fill="#ffffff" stroke="#b6c0ca" stroke-width="1.5"/><text x="1165" y="251.0" text-anchor="middle" font-size="20" font-weight="500" fill="#424a53">Tools</text>
+</g>
+</svg>
