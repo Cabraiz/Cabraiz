@@ -55,7 +55,7 @@ flowchart LR
 </details>
 
 <!-- recent:start -->
-**Recently updated:** [portfolio](https://github.com/Cabraiz/portfolio) · [rag-local-app](https://github.com/Cabraiz/rag-local-app) · [wagner-advocacia](https://github.com/Cabraiz/wagner-advocacia) · [paola-cabral-arquitetura](https://github.com/Cabraiz/paola-cabral-arquitetura)
+**Recently updated:** [portfolio](https://github.com/Cabraiz/portfolio) · [rag-local-app](https://github.com/Cabraiz/rag-local-app) · [wagner-advocacia](https://github.com/Cabraiz/wagner-advocacia) · [ytbaixar](https://github.com/Cabraiz/ytbaixar)
 <!-- recent:end -->
 
 ## Stack
